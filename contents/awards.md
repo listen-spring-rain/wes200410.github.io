@@ -1,6 +1,6 @@
-- Excellent Student Scholarship - Bronze Award, 2024.
+- Excellent Student Scholarship - Bronze Award, USTC 2024.
 
-- Endeavor Scholarship, 2023.
+- Endeavor Scholarship, USTC 2023.
 
 <!-- - National Scholarship of Graduate Student, 2024.
 
