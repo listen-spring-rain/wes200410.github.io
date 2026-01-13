@@ -1,6 +1,6 @@
 
 
-[![listen-spring-rain](https://img.shields.io/badge/slc03-github-blue?logo=github)](https://github.com/listen-spring-rain)
+[![listen-spring-rain](https://img.shields.io/badge/rain-github-blue?logo=github)](https://github.com/listen-spring-rain)
 
 I am currently pursuing a Ph.D. degree at the School of Future Technology,
 University of Chinese Academy of Sciences (UCAS).In my free time, I enjoy reading, hiking in nature, and trying out new things.
