@@ -3,7 +3,7 @@
 [![listen-spring-rain](https://img.shields.io/badge/rain-github-blue?logo=github)](https://github.com/listen-spring-rain)
 
 I am currently pursuing a Ph.D. degree at the Institute of Automation,
-University of Chinese Academy of Sciences (UCAS). In my free time, I enjoy reading, hiking in nature, and trying out new things.
+Chinese Academy of Sciences (CAS), focusing on Brain-inspired AI. In my spare time, I enjoy reading, hiking, and trying out new things.
 
 
 #### Email
